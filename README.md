@@ -103,12 +103,7 @@
 <label for="vitoria-item">Ao final, vence quem acumulou mais pontos</label>
 
 
-<h3>Implementação: <strong>Seleção aleatória de dois jogadores</strong></h3>
+<h3>Implementação Adicional: <strong>Seleção aleatória de dois jogadores</strong></h3>
 <p>
   Foi adicionada a lógica para sortear dois personagens distintos da lista de personagens para disputar.
 </p>
-<br>
-<input type="checkbox" id="jogadores-aleatorio" checked />
-<label for="jogadores-aleatorio">
-  Implementado: seleção automática de <b>dois jogadores aleatórios e distintos</b> a partir da lista de personagens
-</label>
